@@ -33,6 +33,7 @@ Clear: Clear all text fields.
 Ensure you have JDK 21 installed (recommended for smoother execution of the Swing program).
 Clone or download the repository.
 Compile the Dictionary.java file using javac Dictionary.java.
+(Easier to just download Dictionary.jar and run)
 Run the program with java Dictionary.
 # Requirements
 JDK 21 (Recommended for compatibility and smooth operation)
