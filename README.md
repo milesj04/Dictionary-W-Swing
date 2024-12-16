@@ -41,4 +41,4 @@ Java 8 or higher
 # Author
 Miles Jennings
 12/2/24
-EECS 40; Professor Zhou Lee; University of California Irvine
+EECS 40; Professor Zhou Li; University of California Irvine
